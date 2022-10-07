@@ -1,3 +1,4 @@
 {
-  "marquee.widgets.npm-stats.packageNames": ["todolist-v1"]
+  "marquee.widgets.npm-stats.packageNames": ["todolist-v1"],
+  "cSpell.words": ["todolist"]
 }
